@@ -7,8 +7,9 @@ Web Developer
 * 🌍  I'm based in Lithuania
 * 🖥️  See my portfolio at WIP
 * ✉️  You can contact me at [justas.sobutas@gmail.com](mailto:justas.sobutas@gmail.com)
-* 🤝  I'm open to collaborating on these topics: pets/animals, booking systems, nature related projects
+* 🤝  I'm open to collaborations on anything related to animals, booking systems, or projects inspired by the great outdoors — let's make something awesome together!
 
+  
 ### Skills
 
 
